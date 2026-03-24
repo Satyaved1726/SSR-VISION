@@ -1,9 +1,12 @@
 streamlit
-opencv-python-headless
 numpy
 pandas
-easyocr
+plotly==5.18.0
+opencv-python-headless
 ultralytics
-torch
-torchvision
-python-bidi<0.6
+easyocr
+scikit-image
+Pillow
+requests
+beautifulsoup4
+reportlab
