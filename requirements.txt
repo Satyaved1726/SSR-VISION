@@ -6,3 +6,4 @@ easyocr
 ultralytics
 torch
 torchvision
+python-bidi<0.6
