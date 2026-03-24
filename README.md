@@ -88,14 +88,6 @@ Recommended for Streamlit projects:
 4. Upload image inputs and inspect outputs such as detections, OCR, violations, and analytics.
 5. Use analytics and reports sections to review trends and export intelligence summaries.
 
-## Screenshots 📸
-
-- Home Dashboard: Add screenshot here
-- Vehicle Detection Output: Add screenshot here
-- Number Plate Recognition Result: Add screenshot here
-- Traffic Analytics Panel: Add screenshot here
-- Violation Monitoring View: Add screenshot here
-
 ## Future Scope 🔭
 
 - Live CCTV/RTSP stream integration
@@ -104,10 +96,6 @@ Recommended for Streamlit projects:
 - Cloud deployment with scalable microservices
 - Admin and role-based access management
 - Historical trend forecasting and anomaly detection
-
-## Contributors 👥
-
-- Satyaved
 
 ## License 📄
 
